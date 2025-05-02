@@ -26,58 +26,14 @@ Perfect for showcasing C# and .NET development skills to potential employers!
 
 ---
 
-<head>
-  <!-- Google Material Icons -->
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <style>
-    .feature-table td {
-      transition: transform 0.3s ease, color 0.3s ease;
-      padding: 20px;
-    }
-
-    .feature-table td:hover {
-      transform: scale(1.08);
-      color: #0078d4;
-    }
-
-    .material-icons {
-      font-size: 48px;
-      color: #444;
-      transition: transform 0.3s ease, color 0.3s ease;
-    }
-
-    .feature-table td:hover .material-icons {
-      color: #0078d4;
-    }
-  </style>
-</head>
-
 <h2>✨ Key Features</h2>
 
-<table class="feature-table" style="width: 100%; text-align: center; border-spacing: 20px; font-family: Arial, sans-serif;">
-  <tr>
-    <td width="25%">
-      <span class="material-icons">menu_book</span><br/>
-      <b>Book Tracking</b><br/>
-      <small>Track titles, authors, genres, and ratings</small>
-    </td>
-    <td width="25%">
-      <span class="material-icons">movie</span><br/>
-      <b>Movie Collection</b><br/>
-      <small>Organize films by director, genre, and release year</small>
-    </td>
-    <td width="25%">
-      <span class="material-icons">library_music</span><br/>
-      <b>Music Library</b><br/>
-      <small>Catalog artists, albums, and favorite tracks</small>
-    </td>
-    <td width="25%">
-      <span class="material-icons">map</span><br/>
-      <b>Travel Planner</b><br/>
-      <small>Document visited and dream destinations</small>
-    </td>
-  </tr>
-</table>
+<ul style="font-size: 16px; line-height: 1.6;">
+  <li><b>Book Tracking</b>: Track titles, authors, genres, and ratings.</li>
+  <li><b>Movie Collection</b>: Organize films by director, genre, and release year.</li>
+  <li><b>Music Library</b>: Catalog artists, albums, and favorite tracks.</li>
+  <li><b>Travel Planner</b>: Document visited and dream destinations.</li>
+</ul>
 
 
 - 🖱️ **Intuitive UI Design** - Clean, responsive interface with user experience as a priority
