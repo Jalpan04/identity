@@ -1,5 +1,7 @@
 # !dentity
 
+![GitHub top language](https://img.shields.io/github/languages/top/Jalpan04/identity) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/identity) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 <div align="center">
 
 <img src="logo.png" alt="Project Logo" style="width: 120px;" />
